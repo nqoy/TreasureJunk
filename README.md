@@ -7,7 +7,7 @@ This project can offer to all the people who wish to throw away items but dont w
 
 
 ### Diagram:
-![TreasureJunk drawio](https://github.com/EASS-HIT-2022/EASS-HIT-2022-NoyBenbenishty-Ex2/blob/master/TreasureJunkFront.drawio.png)
+![TreasureJunkFront drawio](https://github.com/user-attachments/assets/4d804b7d-a546-4eda-9fff-fed7adc82ef2)
 
 
 ### Build & Run:
